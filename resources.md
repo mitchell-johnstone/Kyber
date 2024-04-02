@@ -7,3 +7,7 @@
 - Medium article: https://medium.com/@hwupathum/crystals-kyber-the-key-to-post-quantum-encryption-3154b305e7bd
 - Open Quamtum specifications: https://openquantumsafe.org/liboqs/algorithms/kem/kyber.html
 - IEEE Paper: https://ieeexplore.ieee.org/document/8406610
+
+## Other
+- C++ implementation: https://github.com/itzmeanjan/kyber
+- 
