@@ -1,12 +1,11 @@
 import numpy as np
 from itertools import starmap
 
-n = 3
-k = 2
-q = 17
-n1 = 2
-
+# Baby Kyber
+n,k,q,n1 = 3, 2, 17, 2
+# Kyber 512
 n,k,q,n1 = 256, 2, 3329, 3
+
 # the modulus polynomial
 f = [1]+[0]*n+[1]
 
